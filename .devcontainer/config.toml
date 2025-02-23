@@ -1,0 +1,5 @@
+[theme]
+primaryColor = "#007BFF"  # This is a blue color
+backgroundColor = "#0E1117"  # (Optional) Dark background for contrast
+secondaryBackgroundColor = "#262730"  # (Optional) Slightly lighter background
+textColor = "#FFFFFF"  # (Optional) White text for better visibility
