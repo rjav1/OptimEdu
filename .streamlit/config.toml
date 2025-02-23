@@ -1,0 +1,14 @@
+[theme]
+primaryColor="#c98ca7"
+backgroundColor="#3d405b"
+secondaryBackgroundColor="#7698b3"
+textColor="#f5e0b7"
+
+[server]
+page_order = [
+    "Home Page",
+    "School Budget Impact Analyzer",
+    "OptimEdu Data Uploader",
+    "AI-Powered Recommendations",
+    "Budget & Investment Forecaster",
+]
