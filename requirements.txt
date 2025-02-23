@@ -1,7 +1,0 @@
-streamlit
-openai
-requests
-scikit-learn
-statsmodels
-matplotlib
-seaborn
